@@ -19,7 +19,7 @@ Leetcode
 <th><a href="https://leetcode.com/problems/two-sum"> Two Sum</a></th>
 <th>Array</th>
 <th><p style="color: green">Easy</p></th>
-<th><a href="https://leetcode.com/problems/two-sum"> Solution </a></th>
+<th><a href="https://github.com/Nikpd/java-interview-questions/tree/main/src/leetcode/arrays/two_sum"> Solution </a></th>
 </tr>
 </thead>
 </table>
